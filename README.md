@@ -8,7 +8,7 @@
 
 ---
 
-<iframe height='265' scrolling='no' title='Fancy Animated SVG Menu' src='https://drive.google.com/file/d/1ssM0pGFWX6SaiNCHqL9eUhrfuqQrdNe0/view' frameborder='no' allowtransparency='true' allowfullscreen='true' style='width: 100%;'></iframe>
+<iframe src="https://docs.google.com/viewer?srcid=1ssM0pGFWX6SaiNCHqL9eUhrfuqQrdNe0&pid=explorer&efh=false&a=v&chrome=false&embedded=true" width="580px" height="480px"></iframe>
 
 ---
 
