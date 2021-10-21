@@ -17,7 +17,7 @@
 
 ---
 
-<iframe src="https://songzaixin.github.io/cv/CV-ZxS-202109a-en.pdf" width="540px" height="480px"></iframe>
+<iframe align=center src="https://songzaixin.github.io/cv/CV-ZxS-202109a-en.pdf" width="100%" height="480px"></iframe>
 
 ---
 
