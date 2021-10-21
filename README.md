@@ -8,12 +8,16 @@
 
 | [Home](https://songzaixin.github.io/cv/)  | [Education](https://songzaixin.github.io/cv-education/) | [Experience](https://songzaixin.github.io/cv-experience/) | [Project](https://songzaixin.github.io/cv-project/) | [Outcome](https://songzaixin.github.io/cv-outcome/) | [Team](https://songzaixin.github.io/cv-team/) |
 
+---
+
+---
+
 
 # My Research Team
 
 ---
 
-<iframe src="https://docs.google.com/viewer?srcid=1ssM0pGFWX6SaiNCHqL9eUhrfuqQrdNe0&pid=explorer&efh=false&a=v&chrome=false&embedded=true" width="580px" height="480px"></iframe>
+<iframe src="https://songzaixin.github.io/cv/CV-ZxS-202109a-en.pdf" width="540px" height="480px"></iframe>
 
 ---
 
