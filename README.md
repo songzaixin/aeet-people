@@ -49,9 +49,9 @@
 
 **<u>CHEN Yujie</u>**
 
-> Bachelor: Sichuan University
->
-> Master: The Hong Kong Polytechnic University (on-going)
+``Bachelor: Sichuan University``
+
+``Master: The Hong Kong Polytechnic University (on-going)``
 
 ---
 
